@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewposrt" content="width=device, initial-scale=1">
+    <title>TEKNIK INFORMATIKA</title>    
+</head>
+<body>
+<style>
+    body{
+        background-color: #e6e6ff;
+    }
+</style>
+    <center>
+        <h1>TEKNIK INFORMATIKA</h1>
+        <header>Informasi Lengkap mengenai Jurusan Teknik Informatika ITERA <br> <a href="http://if.itera.ac.id/">Klik Disini</a></header>
+    </center>
+   <hr color="purple" width="100%" size=5 align="center">
+   <h3>Deskripsi Jurusan</h3>
+   <p>Teknik Informatika juga merupakan bidang ilmu yang mempelajari bagaimana menggunakan teknologi komputer secara optimal guna menangani masalah transformasi atau pengolahan data dengan proses logika. Selama kuliah kamu akan banyak mengkaji pemrograman dan komputasi. Tentunya kamu akan dibekali dengan keterampilan merancang perangkat lunak. Teknik Informatika juga merupakan salah satu jurusan pendidikan tingkat perguruan tinggi yang mempelajari serta menerapkan prinsip-prinsip ilmu komputer dan analisis matematis dalam perancangan, pengujian, pengembangan, dan evaluasi sistem operasi, perangkat lunak (software), dan kinerja komputer. Dalam kata lain, bidang studi ini akan melakukan pembahasan terkait pengolahan data dengan memanfaatkan teknologi komputer yang menggunakan prinsip dan proses logika. </p>
+   <p>Beberapa mata kuliah yang bisa kamu temui di jurusan Teknik Informatika antara lain Sistem Digital, Struktur Data, Pemrograman Berorientasi Objek, Komputasi Numerik, Sistem Basis Data, Organisasi Komputer, Manajemen Basis Data, Kecerdasan Buatan, Sistem Operasi, Analisis dan Perancangan Sistem Informasi, Kecerdasan Komputasional, Manajemen Proyek Perangkat Lunak, Pemrograman Web, Keamanan Informasi dan Jaringan, Perancangan Perangkat Lunak, dan sebagainya.</p>
+   <h3>Pengetahuan dan Keahlian</h3>
+   <p>1. Kemampuan melakukan analisis</p>
+   <p>2. Kemampuan berpikir logis</p>
+   <p>3. Kemampuan berpikir sistematis</p>
+   <p>4. Kemampuan problem solving</p>
+   <p>5. Kemampuan bekerja secara mandiri maupun tim</p>
+   <p>6. Kemampuan memahami bahasa pemrograman</p>
+   <p>7. Keterampilan rekayasa informatika </p>
+   <p>8. Kreatif, tekun, teliti, detail </p>
+   <h3>Prospek Kerja</h3> 
+   <p>Tamatan teknik informatika sangat dibutuhkan di era globalisasi yang penuh dengan teknologi ini. Lulusan ilmu komputer diharapkan dapat menjadi ahli dalam sistem operasi, aplikasi, dan komputer sehingga dapat memastikan IT dan sistem operasi bekerja dengan baik sesuai arahan yang sudah diinput.</p>
+   <p>1. Programmer</p>
+   <p>2. Web Engineer/Web Administrator</p>
+   <p>3. Software Engineer</p>
+   <p>4. Computer Network</p>
+   <p>5. Database Engineer/Database Administrator</p>
+   <p>6. Game Developer</p>
+   <p>7. Konsultan IT</p>
+   <hr color="purple" width="100%">
+</style>   
+</body>
+<footer>
+    <p align="right">Copyright &copy; 2021</p>
+    <p align="right">Created by mpamanda</p>
+</footer>
+</html>
